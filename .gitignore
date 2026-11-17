@@ -1,0 +1,25 @@
+# сборка
+build/
+build_*/
+dist/
+dist_*/
+*.spec
+
+# настройки и журналы приложения
+carousel.log
+carousel.pid
+hotkey.json
+state.json
+data/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# редакторы
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
